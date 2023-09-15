@@ -1741,6 +1741,9 @@
     redux-thunk "^2.4.2"
     reselect "^4.1.8"
 
+"@screens/chat-listing@file:./screens/chat-listing":
+  version "1.0.0"
+
 "@screens/chat-listing@file:./screens/chat-listing/":
   version "1.0.0"
 
